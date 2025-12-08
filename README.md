@@ -10,12 +10,7 @@
     alt="Main GitHub Stats"
   />
 
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=damienreichhart&theme=react&hide_border=true&border_radius=12"
-    height="170"
-    alt="GitHub Streak"
-  />
+
 </div>
 
 <!-- Language Card -->
