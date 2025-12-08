@@ -2,16 +2,37 @@
 
 ###
 
+
+<img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenant68&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=react&hide_border=true&border_radius=12"
+    height="170"
+    alt="Main GitHub Stats"
+  />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenant68&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kenant68&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <!-- Main Stats – modern glass look -->
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenant68&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=react&hide_border=true&border_radius=12"
+    height="170"
+    alt="Main GitHub Stats"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=damienreichhart&theme=react&hide_border=true&border_radius=12"
+    height="170"
+    alt="GitHub Streak"
+  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://imgs.search.brave.com/3R2AEjMUhxtN_6eoZgkJ9qh0P7dU2aRqkZKmANfB7ic/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW1hdGVy/YXN1LWl0YWNoaS16/b29tLWluLXF6Mng3/eGY5bzAwcnR2OHEu/Z2lm.gif"  />
-
-###
+<!-- Language Card -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kenant68&layout=compact&theme=react&hide_border=true&border_radius=12"
+    height="180"
+    alt="Top Languages"
+  />
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
