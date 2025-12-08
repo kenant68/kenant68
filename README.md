@@ -1,13 +1,6 @@
 <h2 align="left">Hi 👋! My name is Kenan</h2>
 
-###
 
-
-<img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenant68&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=react&hide_border=true&border_radius=12"
-    height="170"
-    alt="Main GitHub Stats"
-  />
 <div align="center">
 
   <!-- Main Stats – modern glass look -->
