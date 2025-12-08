@@ -22,6 +22,10 @@
   />
 </div>
 
+
+<img align="right" height="150" src="https://imgs.search.brave.com/3R2AEjMUhxtN_6eoZgkJ9qh0P7dU2aRqkZKmANfB7ic/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW1hdGVy/YXN1LWl0YWNoaS16/b29tLWluLXF6Mng3/eGY5bzAwcnR2OHEu/Z2lm.gif"  />
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
